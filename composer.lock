@@ -4,28 +4,27 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "content-hash": "63897cb67374d5b0478f085c54e0b006",
+    "content-hash": "aea6691a907ee9dd93a3c4dda19e46bd",
     "packages": [
         {
             "name": "veritrans/veritrans-php",
-            "version": "dev-master",
+            "version": "1.0.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/veritrans/veritrans-php.git",
-                "reference": "ab35d800ccb4930342356228cb073aca17e46511"
+                "reference": "9d0a6363e5a8ecc24d599bc150b894dea9ca5889"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/veritrans/veritrans-php/zipball/ab35d800ccb4930342356228cb073aca17e46511",
-                "reference": "ab35d800ccb4930342356228cb073aca17e46511",
+                "url": "https://api.github.com/repos/veritrans/veritrans-php/zipball/9d0a6363e5a8ecc24d599bc150b894dea9ca5889",
+                "reference": "9d0a6363e5a8ecc24d599bc150b894dea9ca5889",
                 "shasum": ""
             },
             "require": {
-                "php": ">=5.4"
+                "php": ">=5.3.0"
             },
             "require-dev": {
-                "phpunit/phpunit": "4.6.*",
-                "psy/psysh": "0.4.*"
+                "phpunit/phpunit": "4.0.*"
             },
             "type": "library",
             "autoload": {
@@ -53,15 +52,13 @@
             ],
             "description": "PHP Wraper for Veritrans VT-Web Payment API.",
             "homepage": "https://veritrans.co.id",
-            "time": "2017-03-09 09:46:14"
+            "time": "2015-04-24T09:13:54+00:00"
         }
     ],
     "packages-dev": [],
     "aliases": [],
     "minimum-stability": "stable",
-    "stability-flags": {
-        "veritrans/veritrans-php": 20
-    },
+    "stability-flags": [],
     "prefer-stable": false,
     "prefer-lowest": false,
     "platform": [],

@@ -9,6 +9,6 @@
         }
     ],
     "require": {
-        "veritrans/veritrans-php": "dev-master"
+        "veritrans/veritrans-php": "~1.0"
     }
 }
