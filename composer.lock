@@ -1,0 +1,69 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
+        "This file is @generated automatically"
+    ],
+    "content-hash": "63897cb67374d5b0478f085c54e0b006",
+    "packages": [
+        {
+            "name": "veritrans/veritrans-php",
+            "version": "dev-master",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/veritrans/veritrans-php.git",
+                "reference": "ab35d800ccb4930342356228cb073aca17e46511"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/veritrans/veritrans-php/zipball/ab35d800ccb4930342356228cb073aca17e46511",
+                "reference": "ab35d800ccb4930342356228cb073aca17e46511",
+                "shasum": ""
+            },
+            "require": {
+                "php": ">=5.4"
+            },
+            "require-dev": {
+                "phpunit/phpunit": "4.6.*",
+                "psy/psysh": "0.4.*"
+            },
+            "type": "library",
+            "autoload": {
+                "classmap": [
+                    ""
+                ]
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "GPL-3.0"
+            ],
+            "authors": [
+                {
+                    "name": "Andri Setiawan",
+                    "email": "andri.setiawan@veritrans.co.id"
+                },
+                {
+                    "name": "Alvin Litani",
+                    "email": "alvin.litani@veritrans.co.id"
+                },
+                {
+                    "name": "Ismail Faruqi",
+                    "email": "ismail.faruqi@veritrans.co.id"
+                }
+            ],
+            "description": "PHP Wraper for Veritrans VT-Web Payment API.",
+            "homepage": "https://veritrans.co.id",
+            "time": "2017-03-09 09:46:14"
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "stable",
+    "stability-flags": {
+        "veritrans/veritrans-php": 20
+    },
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": [],
+    "platform-dev": []
+}

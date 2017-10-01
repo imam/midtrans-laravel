@@ -1,0 +1,14 @@
+{
+    "name": "imam/midtrans-laravel",
+    "description": "Unofficial Laravel wrapper for Midtrans",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Imam Assidiqqi",
+            "email": "imam@imam.tech"
+        }
+    ],
+    "require": {
+        "veritrans/veritrans-php": "dev-master"
+    }
+}
